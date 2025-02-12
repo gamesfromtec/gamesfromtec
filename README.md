@@ -1,5 +1,5 @@
 # Games From TEC
-...er et online gamingspot. Bestående afspiludviklede af lærlinge i oplæring i TEC's erhvervscenter.🚀💪🚀
+...er et online gamingspot. Bestående af spil udviklede af lærlinge under oplæring i TEC's erhvervscenter.🚀💪🚀
 | Spil | Udvikler af:| År |
 |:--- |:---| ---:|
 | [Dwarven Settlement Tower Defense](https://marvik94.github.io/DwarvenSettlementTowerDefense/) | [Martin Dahl](https://github.com/marvik94) | 2024 |
